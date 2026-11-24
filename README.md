@@ -1,4 +1,4 @@
-# Anthropic Fonts — Personal Use
+# Anthropic Fonts
 
 ## What is in here
 
