@@ -1,11 +1,5 @@
 # Anthropic Fonts — Personal Use
 
-I have been using Claude fonts from Anthropic for my own personal projects. I do not own the rights to these fonts — they belong to Anthropic. I just find it practical to have them available directly on GitHub for quick access across my machines and tools.
-
-If you are from Anthropic and want this removed, just reach out.
-
----
-
 ## What is in here
 
 ### `/ttf`
